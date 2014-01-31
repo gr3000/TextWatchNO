@@ -1,0 +1,29 @@
+{
+    "versionLabel": "1.0.0",
+    "uuid": "6d90b984-b1bd-48d7-9568-d7585097e434",
+    "appKeys": {},
+    "longName": "TextWatchNO",
+    "versionCode": 1,
+    "capabilities": [
+        ""
+    ],
+    "shortName": "TextWatchNO",
+    "companyName": "Filip Horvei",
+    "watchapp": {
+        "watchface": true
+    },
+    "resources": {
+        "media": [
+            {
+                "type": "font",
+                "name": "FONT_GOTHAM_BOLD_36",
+                "file": "fonts/gotham_bold_36.ttf"
+            },
+            {
+                "type": "font",
+                "name": "FONT_GOTHAM_LIGHT_31",
+                "file": "fonts/gotham_light_31.ttf"
+            }
+        ]
+    }
+}
